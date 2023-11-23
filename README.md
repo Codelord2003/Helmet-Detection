@@ -72,6 +72,3 @@ For classification tasks, the sigmoid activation function is commonly used to co
 Accuracy:
 For Training: 90.17%
 For Validation: 76.10%
-
-Output:
-![image](https://github.com/Codelord2003/Helmet-Detection/assets/95679005/56de52ad-dd9b-4e02-a1f1-5ce2477a0b21)
